@@ -1,0 +1,7 @@
+function [img_marked, corners] = hough_transform(img)
+
+% Implement the Hough transform to detect the target A4 paper
+% Input parameter:
+% .    img - original input image
+% .    You can add other input parameters if you need. If you have added
+% other inp
